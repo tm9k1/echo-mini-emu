@@ -1,0 +1,10 @@
+# User music and database files
+internal_storage/*
+!internal_storage/.echo
+internal_storage/.echo/*
+!internal_storage/.echo/.gitkeep
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
